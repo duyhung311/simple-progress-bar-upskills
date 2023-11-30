@@ -1,12 +1,9 @@
-<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M32.0845 7.94025V4H24.0203V7.9896H16.029V4H7.91553V7.94025H4V36H16.0044V32.0045C16.0058 30.9457 16.4274 29.9308 17.1766 29.1826C17.9258 28.4345 18.9412 28.0143 20 28.0143C21.0588 28.0143 22.0743 28.4345 22.8234 29.1826C23.5726 29.9308 23.9942 30.9457 23.9956 32.0045V36H36V7.94025H32.0845Z"
-          fill="url(#paint0_linear)"/>
-    <defs>
-        <linearGradient id="paint0_linear" x1="2.94192" y1="4.89955" x2="37.7772" y2="39.7345"
-                        gradientUnits="userSpaceOnUse">
-            <stop offset="0.15937" stop-color="#3BEA62"/>
-            <stop offset="0.5404" stop-color="#3C99CC"/>
-            <stop offset="0.93739" stop-color="#6B57FF"/>
-        </linearGradient>
-    </defs>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="32px" height="31px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g><path style="opacity:1" fill="#034b99" d="M -0.5,-0.5 C 10.1667,-0.5 20.8333,-0.5 31.5,-0.5C 31.5,9.83333 31.5,20.1667 31.5,30.5C 20.8333,30.5 10.1667,30.5 -0.5,30.5C -0.5,20.1667 -0.5,9.83333 -0.5,-0.5 Z"/></g>
+<g><path style="opacity:1" fill="#4276b2" d="M 4.5,10.5 C 4.25293,13.9387 4.58627,17.272 5.5,20.5C 4.22275,19.3064 3.55608,17.6397 3.5,15.5C 3.50681,13.6307 3.84014,11.964 4.5,10.5 Z"/></g>
+<g><path style="opacity:1" fill="#dbe4f0" d="M 4.5,10.5 C 5.5,10.5 6.5,10.5 7.5,10.5C 7.5,13.1667 7.5,15.8333 7.5,18.5C 8.83333,18.5 10.1667,18.5 11.5,18.5C 11.5,15.8333 11.5,13.1667 11.5,10.5C 12.8333,10.5 14.1667,10.5 15.5,10.5C 15.5,14.1667 15.5,17.8333 15.5,21.5C 12.0718,21.2125 8.73848,20.8791 5.5,20.5C 4.58627,17.272 4.25293,13.9387 4.5,10.5 Z"/></g>
+<g><path style="opacity:1" fill="#d5e0ee" d="M 17.5,10.5 C 20.0086,11.6748 22.5086,11.6748 25,10.5C 29.2059,11.5282 30.5392,14.1948 29,18.5C 27.2141,21.3616 24.8808,22.0283 22,20.5C 21.5065,22.1341 21.3398,23.8008 21.5,25.5C 20.1667,25.5 18.8333,25.5 17.5,25.5C 17.5,20.5 17.5,15.5 17.5,10.5 Z"/></g>
+<g><path style="opacity:1" fill="#2357a0" d="M 22.5,12.5 C 23.5,12.5 24.5,12.5 25.5,12.5C 25.5,14.5 25.5,16.5 25.5,18.5C 24.1667,18.5 22.8333,18.5 21.5,18.5C 21.3253,16.3792 21.6586,14.3792 22.5,12.5 Z"/></g>
 </svg>
